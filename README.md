@@ -16,3 +16,4 @@
 - o trabalho tem duas partes:
   1. apresentação de 40 a 60 minutos sobre o tema (incluindo tempo de discussão)
   2. relatório sobre o tema apresentado e discussão realizada
+  3. o trabalho precisa apresentar as **refências**
