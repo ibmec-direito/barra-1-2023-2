@@ -17,3 +17,11 @@
   1. apresentação de 40 a 60 minutos sobre o tema (incluindo tempo de discussão)
   2. relatório sobre o tema apresentado e discussão realizada
   3. o trabalho precisa apresentar as **referências**
+
+## Envio AC
+Enviar os repositórios com os trabalhos feitos durante o período para o email
+direito@mangeli.com.br
+assunto: [Direito - Barra 8007 - AC]
+conteúdo:
+	- nome
+	- endereço do repositório
