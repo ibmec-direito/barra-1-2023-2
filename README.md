@@ -28,11 +28,13 @@ Enviar os repositórios com os trabalhos feitos durante o período:
 
 
 ## Envio do trabalho da P2
-Criar um repositório no qual devem constar os slides/transparências usados na apresentação E o relatório.  
-Enviar um email seguindo as seguintes intruções:
+Criar um repositório no github contendo os slides/transparências usados na apresentação **E** o relatório.  
+
+Enviar um email seguindo as instruções:
 1. Enviar o email para direito@mangeli.com.br
 2. Escrever no assunto do email (mantendo os colchetes): [Direito - Barra 8007 - P2]
 3. O corpo do email deve conter:
    - link para o repositório com os slides/transparências E relatório
    - **nomes completos** de todos os integrantes do grupo
+     
 **Obs  :** O email deve ser enviado por apenas um integrante do grupo
